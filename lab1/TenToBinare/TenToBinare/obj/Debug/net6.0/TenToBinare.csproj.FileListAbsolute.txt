@@ -1,0 +1,15 @@
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/bin/Debug/net6.0/TenToBinare
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/bin/Debug/net6.0/TenToBinare.deps.json
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/bin/Debug/net6.0/TenToBinare.runtimeconfig.json
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/bin/Debug/net6.0/TenToBinare.dll
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/bin/Debug/net6.0/TenToBinare.pdb
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/obj/Debug/net6.0/TenToBinare.csproj.AssemblyReference.cache
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/obj/Debug/net6.0/TenToBinare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/obj/Debug/net6.0/TenToBinare.AssemblyInfoInputs.cache
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/obj/Debug/net6.0/TenToBinare.AssemblyInfo.cs
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/obj/Debug/net6.0/TenToBinare.csproj.CoreCompileInputs.cache
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/obj/Debug/net6.0/TenToBinare.dll
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/obj/Debug/net6.0/refint/TenToBinare.dll
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/obj/Debug/net6.0/TenToBinare.pdb
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/obj/Debug/net6.0/TenToBinare.genruntimeconfig.cache
+/Users/andreikovtun/Projects/TenToBinare/TenToBinare/obj/Debug/net6.0/ref/TenToBinare.dll
